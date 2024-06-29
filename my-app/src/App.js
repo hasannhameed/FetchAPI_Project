@@ -74,6 +74,7 @@ function App() {
     }
   }
 
+
   
   let content = <p>Found no movies.</p>;
 
